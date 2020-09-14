@@ -1,4 +1,5 @@
-    <img src="input/imag.jpeg" width="250">
+    
+<img src="input/imag.jpeg" width="250">
 
 
 Se enriquecerá un dataframe,cogido de la página de kaggle:
